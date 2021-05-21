@@ -30,7 +30,7 @@ twitter_username: miilochavez
 github_username:  acchavezm
 
 # Build settings
-theme: slate
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
